@@ -1,0 +1,15 @@
+#section1{
+    background-color: rgb(253, 239, 237);
+    width: 100%;
+    height: 670px;
+
+}
+#lo{
+    width: 25%;
+    height: 95%;
+    /* border: 1px solid black; */
+   
+}
+#l{
+    display: none;
+}
