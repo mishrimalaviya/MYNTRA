@@ -5,14 +5,25 @@ fetch(`http://localhost:3000/card`)
         return res.json()
     })
     .then((res) => {
-        // console.log(res)
+        t(res)
        document.getElementById("cardadd").innerHTML=card(res)
-    //    console.log(card(res))
-
     })
     .catch((err) => {
         console.log(err)
     })
+
+    function t(a){
+        
+        sum=0
+        console.log(a)
+        a.forEach((el,i)=>{
+            sum=sum+ +el.p;
+        })
+        // console.log(sum);
+        document.getElementById("to").innerHTML=sum
+     
+    
+    }
 
 function card(res) {
     
@@ -29,5 +40,7 @@ function card(res) {
             </div>
      </div>`
 }).join("")
+
+
 
 }

@@ -19,6 +19,21 @@
       "id": "6c29",
       "ema": "mishrimalaviya1805@gmail.com",
       "password": "12345"
+    },
+    {
+      "id": "3353",
+      "ema": "mishu@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "4be0",
+      "ema": "khajasdgy@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "670e",
+      "ema": "mishri@gmail.com",
+      "password": "12334"
     }
   ],
   "product": [
@@ -95,18 +110,19 @@
   ],
   "card": [
     {
-      "id": "1",
-      "i": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/21589912/2023/1/18/895674c1-2d15-408e-943f-a42d1733d3511674014421934KALINIWomenPurpleGeometricPrintedFlaredSleevesMirrorWorkSumm1.jpg",
-      "t": "Biba",
+      "id": "2",
+      "i": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/20386980/2023/2/2/84c10310-9eec-4ba2-85d1-8ff732487daf1675331398884-Mast--Harbour-Women-Dresses-9521675331398377-1.jpg",
+      "t": "Bibart",
       "s": "Flared Ethinic Palazzos",
-      "p": "689"
+      "p": "20"
     },
     {
-      "id": "5",
-      "i": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/9306567/2019/4/15/955f3bd2-4e67-4f53-9a8a-7016877897b51555311650567-StyleStone-Women-Blue-Solid-Shirt-Dress-2551555311648859-1.jpg",
+      "id": "10",
+      "i": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20781238/2022/11/16/075954e3-080d-40a1-b186-ed86f9f3fb261668611861096Dresses1.jpg",
       "t": "Biba",
       "s": "Flared Ethinic Palazzos",
-      "p": "600"
+      "p": "10"
     }
+   
   ]
 }
